@@ -3,7 +3,7 @@
 Keeper App is used to save your notes for future reference. Developed using React Frontend Interface.
 
 Screenshot of Keeper App
-![](images/keeperappimage.png)
+![](keeperappimage.png)
 
 🏃‍♂️ Local Installation
 1. Drop a ⭐ on the Github Repository.
