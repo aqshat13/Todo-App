@@ -1,8 +1,8 @@
-# Keeper-App
+# ToDo-App
 
-Keeper App is used to save your notes for future reference. Developed using React Frontend Interface.
+ToDo App is used to save your notes for future reference. Developed using React Frontend Interface.
 
-Screenshot of Keeper App
+
 
 
 🏃‍♂️ Local Installation
